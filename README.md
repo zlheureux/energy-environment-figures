@@ -30,13 +30,13 @@ U.S. facts & figures:
 - U.S. primary energy consumption: 101.2 quads (2018) [[U.S. LLNL](https://flowcharts.llnl.gov/)]
     - The largest contributions are from petroleum (36.9 quad), natural gas (31 quad), and coal (13.3 quad), respectively. 
 
-- U.S. electricity generation: 4,034 TWh (2017) [[U.S. EIA](https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2,0,1&fuel=vtvv&geo=g&sec=g&linechart=ELEC.GEN.ALL-US-99.A~ELEC.GEN.COW-US-99.A~ELEC.GEN.NG-US-99.A~ELEC.GEN.NUC-US-99.A~ELEC.GEN.HYC-US-99.A~ELEC.GEN.WND-US-99.A~ELEC.GEN.TSN-US-99.A&columnchart=ELEC.GEN.ALL-US-99.A~ELEC.GEN.COW-US-99.A~ELEC.GEN.NG-US-99.A~ELEC.GEN.NUC-US-99.A~ELEC.GEN.HYC-US-99.A~ELEC.GEN.WND-US-99.A&map=ELEC.GEN.ALL-US-99.A&freq=A&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=)]
+- U.S. electricity generation: 4,178 TWh (2018) [[U.S. EIA](https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2,0,1&fuel=vtvv&geo=g&sec=g&linechart=ELEC.GEN.ALL-US-99.A~ELEC.GEN.COW-US-99.A~ELEC.GEN.NG-US-99.A~ELEC.GEN.NUC-US-99.A~ELEC.GEN.HYC-US-99.A~ELEC.GEN.WND-US-99.A~ELEC.GEN.TSN-US-99.A&columnchart=ELEC.GEN.ALL-US-99.A~ELEC.GEN.COW-US-99.A~ELEC.GEN.NG-US-99.A~ELEC.GEN.NUC-US-99.A~ELEC.GEN.HYC-US-99.A~ELEC.GEN.WND-US-99.A&map=ELEC.GEN.ALL-US-99.A&freq=A&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=)]
     - Natural gas: 1,296 TWh
-    - Coal: 1,206 TWh
-    - Nuclear: 804 TWh
-    - Hydroelectric: 300 TWh
-    - Wind: 254 TWh
-    - Solar: 77 TWh
+    - Coal: 1,468 TWh
+    - Nuclear: 807 TWh
+    - Hydroelectric: 292 TWh
+    - Wind: 275 TWh
+    - Solar: 96 TWh
     - Biomass: 63 TWh
 
 ### Sector-level figures
