@@ -27,7 +27,7 @@ For a great general units/conversions overview, please see this [Units and Conve
 ## Energy
 ### Country-level energy figures
 U.S. facts & figures:
-- U.S. primary energy consumption: 97.7 quads (2017) [[U.S. LLNL](https://flowcharts.llnl.gov/content/assets/images/energy/us/Energy_US_2017.png)]
+- U.S. primary energy consumption: 101.2 quads (2018) [[U.S. LLNL](https://flowcharts.llnl.gov/)]
     - The largest contributions are from petroleum (36.2 quad), natural gas (28.0 quad), and coal (14.0 quad), respectively. 
 
 - U.S. electricity generation: 4,034 TWh (2017) [[U.S. EIA](https://www.eia.gov/electricity/data/browser/#/topic/0?agg=2,0,1&fuel=vtvv&geo=g&sec=g&linechart=ELEC.GEN.ALL-US-99.A~ELEC.GEN.COW-US-99.A~ELEC.GEN.NG-US-99.A~ELEC.GEN.NUC-US-99.A~ELEC.GEN.HYC-US-99.A~ELEC.GEN.WND-US-99.A~ELEC.GEN.TSN-US-99.A&columnchart=ELEC.GEN.ALL-US-99.A~ELEC.GEN.COW-US-99.A~ELEC.GEN.NG-US-99.A~ELEC.GEN.NUC-US-99.A~ELEC.GEN.HYC-US-99.A~ELEC.GEN.WND-US-99.A&map=ELEC.GEN.ALL-US-99.A&freq=A&ctype=linechart&ltype=pin&rtype=s&maptype=0&rse=0&pin=)]
